@@ -68,11 +68,12 @@ Below are the sanitized screenshots documenting the communication, the systemic 
 ### 3. Legal & Technical Escalation Email (Part 1)
 ![Escalation Part 1](IMG_20260506_102231.jpg)
 
-### 4. Legal & Technical Escalation Email (Part 2)
-![Escalation Part 2](IMG_20260506_100800.jpg)
 
+### 4. Legal & Technical Escalation Email (Part 2)
+![Escalation Part 2](IMG_20260506_102430.jpg)
 ### 5. The Resolution ("Service Gesture" Email)
-![Resolution Email](IMG_20260506_102430.jpg)
+![Resolution Email](IMG_20260506_100800.jpg)
+
 
 ### 6. Final Cashback Credited (Amazon Pay Proof)
 ![Cashback Proof](IMG_20260506_100656.jpg)
