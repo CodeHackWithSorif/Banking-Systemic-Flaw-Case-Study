@@ -60,20 +60,20 @@ This experience taught me valuable lessons that apply to both software developme
 Below are the sanitized screenshots documenting the communication, the systemic error, and the final resolution:
 
 ### 1. The Promotional Offer (No Terms & Conditions Asterisk)
-![Promotional Offer](IMG_20260506_100656.jpg)
+![Promotional Offer](IMG_20260506_101205.jpg)
 
 ### 2. Customer Care Rejection Email
-![Rejection Email](IMG_20260506_100800.jpg)
+![Rejection Email](IMG_20260506_101926.jpg)
 
 ### 3. Legal & Technical Escalation Email (Part 1)
-![Escalation Part 1](IMG_20260506_101205.jpg)
+![Escalation Part 1](IMG_20260506_102231.jpg)
 
 ### 4. Legal & Technical Escalation Email (Part 2)
-![Escalation Part 2](IMG_20260506_101926.jpg)
+![Escalation Part 2](IMG_20260506_100800.jpg)
 
 ### 5. The Resolution ("Service Gesture" Email)
-![Resolution Email](IMG_20260506_102231.jpg)
+![Resolution Email](IMG_20260506_102430.jpg)
 
 ### 6. Final Cashback Credited (Amazon Pay Proof)
-![Cashback Proof](IMG_20260506_102430.jpg)
+![Cashback Proof](IMG_20260506_100656.jpg)
 )*
